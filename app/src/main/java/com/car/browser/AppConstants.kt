@@ -3,9 +3,9 @@ package com.car.browser
 object AppConstants {
     const val MENU_BUTTON_AUTO_HIDE_DELAY_MS = 3000L
     const val MENU_BUTTON_SHOW_DELAY_MS = 500L
-    const val GITHUB_REPO_URL = "https://github.com/GanuAndroid"
-    const val KEEP_ANDROID_OPEN_URL = "https://github.com/GanuAndroid"
-    const val FREE_DROID_WARN_SOLUTIONS_URL = "https://github.com/GanuAndroid"
+    const val GITHUB_REPO_URL = "https://github.com/ganeshsharma-dev/CarBrowser"
+    const val KEEP_ANDROID_OPEN_URL = "https://github.com/ganeshsharma-dev/CarBrowser"
+    const val FREE_DROID_WARN_SOLUTIONS_URL = "https://github.com/ganeshsharma-dev/CarBrowser"
     const val FREE_DROID_WARN_VERSION_KEY = "versionCodeWarn"
     const val REQUEST_CODE_POST_NOTIFICATIONS = 1101
     const val REQUEST_CODE_RECORD_AUDIO = 1102

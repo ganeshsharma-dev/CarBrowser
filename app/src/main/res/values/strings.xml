@@ -166,7 +166,7 @@
     <string name="settings_sponsors_hide_switch_title">Hide sponsors list on start page</string>
     
     <string name="settings_license">License</string>
-    <string name="settings_license_description">This application and its source code are licensed under the GNU General Public License version 3 (GPLv3). If you incorporate this application or use any of its code, you must include clear attribution to the repository: https://github.com/GanuAndroid</string>
+    <string name="settings_license_description">This application and its source code are licensed under the GNU General Public License version 3 (GPLv3). If you incorporate this application or use any of its code, you must include clear attribution to the repository: https://github.com/ganeshsharma-dev/CarBrowser</string>
     <string name="license_view_full">View Full License</string>
     
     <string name="open_source_title">Open-source libraries</string>

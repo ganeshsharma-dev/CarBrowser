@@ -103,7 +103,7 @@ class MainActivity : AppCompatActivity() {
     private var currentUserAgentProfile: UserAgentProfile = UserAgentProfile.ANDROID_CHROME
     private var shouldForceSessionRestore: Boolean = false
     
-    var latestReleaseUrl: String = "https://github.com/GanuAndroid"
+    var latestReleaseUrl: String = "https://github.com/ganeshsharma-dev/CarBrowser"
         private set
 
     // Proxy methods for MainActivitySetup
