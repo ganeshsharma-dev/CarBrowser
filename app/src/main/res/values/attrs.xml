@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="materialButtonTextStyle" format="reference" />
+    <attr name="materialIconButtonStyle" format="reference" />
+    <attr name="materialIconButtonFilledTonalStyle" format="reference" />
+    <attr name="materialIconButtonFilledStyle" format="reference" />
+    <attr name="materialIconButtonOutlinedStyle" format="reference" />
+</resources>
