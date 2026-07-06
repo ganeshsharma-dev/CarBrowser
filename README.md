@@ -68,6 +68,19 @@ Contributions are welcome! If you have a feature request or found a bug:
 1. Open an [Issue](https://github.com/ganeshsharma-dev/CarBrowser/issues).
 2. Fork the repository and submit a Pull Request.
 
+## 📬 Contact & Connect
+
+If you have questions, feedback, or just want to say hi, feel free to reach out:
+
+- 🐙 **GitHub**: [@ganeshsharma-dev](https://github.com/ganeshsharma-dev)
+- 🔗 **LinkedIn**: [Ganesh Sharma](https://www.linkedin.com/in/ganeshsharma-dev/)
+
+# ⭐ Show your support
+
+If you like this project, please consider giving it a ⭐ on GitHub.
+
+---
+
 ## 📄 License
 
 This project is licensed under the **GNU General Public License v3.0**. See the [LICENSE](LICENSE) file for details.

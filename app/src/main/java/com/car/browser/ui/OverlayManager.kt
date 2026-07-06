@@ -75,7 +75,7 @@ class OverlayManager(
             "v${com.car.browser.BuildConfig.VERSION_NAME}"
         )
         
-     //   fetchLatestVersion()
+        fetchLatestVersion()
     }
 
     fun hideCheckLatestView() {
